@@ -7,7 +7,7 @@ authors = ["Derek Fitzpatrick <dfitz.murrieta@gmail.com>"]
 [tool.poetry.dependencies]
 python = "^3.10"
 pydantic = "^1.8.2"
-python-multipart = "^0.0.5"
+python-multipart = "^0.0.6"
 
 [tool.poetry.dev-dependencies]
 pytest-asyncio = "^0.16.0"
